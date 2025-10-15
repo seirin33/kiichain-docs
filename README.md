@@ -22,7 +22,7 @@ Kii has a full suite of on and off ramps enabling instant payins and payouts fro
 
 Kii has developed a suite of APIs that embed all centralized and decentralized functionalities into a single set of APIs that any application can use. For more information on the APIs, visit:
 
-* [Kii APIs](https://docs.kiiglobal.io/docs/connect-to-kiiex/connect-to-kiiex-apis)
+* [Kii APIs](https://docs.kiiglobal.io/docs/connect-to-kiiex/stablecoin-fx-quick-start)
 
 ### KYC / AML
 
