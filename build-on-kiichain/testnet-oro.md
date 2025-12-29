@@ -20,10 +20,10 @@ Testnet Oro has the following endpoints open for development purposes:
 
 **Sentry #1:**
 
-* **RPC:** [https://rpc.uno.sentry.testnet.v3.kiivalidator.com/](https://rpc.dos.sentry.testnet.v3.kiivalidator.com/)
-* **Rest (LCD):** [https://lcd.uno.sentry.testnet.v3.kiivalidator.com/](https://lcd.dos.sentry.testnet.v3.kiivalidator.com/)
+* **RPC:** [https://rpc.uno.sentry.testnet.v3.kiivalidator.com/](https://rpc.uno.sentry.testnet.v3.kiivalidator.com/)
+* **Rest (LCD):** [https://lcd.uno.sentry.testnet.v3.kiivalidator.com/](https://lcd.uno.sentry.testnet.v3.kiivalidator.com/)
 * **GRPC:** grpc.uno.sentry.testnet.v3.kiivalidator.com:443
-* **JSON-RPC (EVM):** [https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com/](https://json-rpc.dos.sentry.testnet.v3.kiivalidator.com/)
+* **JSON-RPC (EVM):** [https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com/](https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com/)
 * **Peer:** 5b6aa55124c0fd28e47d7da091a69973964a9fe1@uno.sentry.testnet.v3.kiivalidator.com:26656
 
 **Sentry #2:**
